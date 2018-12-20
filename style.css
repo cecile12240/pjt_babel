@@ -1,0 +1,24 @@
+.logo{
+    width: 220px;
+    height: 100px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+input{
+   height: 20px;
+   margin-right: 20px;
+   margin-left: 20px;
+   margin-top: 20px;
+   padding-left: 20px; 
+}
+
+.zone2{
+    background-image: url(fond.jpg);
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
